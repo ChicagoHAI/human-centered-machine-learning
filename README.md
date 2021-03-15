@@ -55,7 +55,7 @@ After Seeing Them Err](http://opim.wharton.upenn.edu/risk/library/WPAF201410-Alg
 		* [Man is to computer programmer as woman is to homemaker? debiasing word embeddings](https://arxiv.org/abs/1607.06520). Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai. NeurIPS 2016.
 		
 
-* Week 4: Accountability Framework
+* Week 4: Accountability
 	* Apr 20, [Roles for Computing in Social Change](https://arxiv.org/abs/1912.04883). Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David G. Robinson. FAccT 2020. 
 	* Apr 22, [Model Cards for Model Reporting](https://dl.acm.org/doi/abs/10.1145/3287560.3287596). Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timnit Gebru. FAccT 2019.   
 	_Additional reading_:
@@ -109,7 +109,7 @@ Jina Suh, Shamsi Iqbal, Paul N. Bennett, Kori Inkpen, Jaime Teevan, Ruth Kikin-G
 	
 * Week 7: Example-based explanations
 	* May 11, [Deep Weighted Averaging Classifiers](https://arxiv.org/abs/1811.02579). Dallas Card, Michael Zhang, Noah A. Smith. FAccT 2019.  
-	* May 13, [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399). Sandra Wachter, Brent Mittelstadt, Chris Russell.
+	* May 13, [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399). Sandra Wachter, Brent Mittelstadt, Chris Russell. 2017.   
 	_Additional reading_:
 		* [Examples are not Enough, Learn to Criticize!
 Criticism for Interpretability](http://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability.pdf). Been Kim, Rajiv Khanna, Oluwasanmi Koyejo. NeurIPS 2016.
