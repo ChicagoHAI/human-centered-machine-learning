@@ -25,11 +25,18 @@ Programming: Students are expected to be familiar with coding related to machine
 
 ### Course evaluation
 
+You can choose to take the course as an elective or a seminar.
+
+If you choose the elective option, you will be evaluated as follows and get letter grades:
+
 * proposals (2 times, 20%)
-* course presentation (2 times, 20%)
-* peer feedback (10%)
+* course presentation (1 time, 10%)
+* peer feedback (15%)
 * final project (45%)
-* participation (5%)
+* participation (10%)
+
+If you choose the seminar option, you will need to present once and participate in over 80% of the lectures to pass.
+
 
 ### Late policy
 We do not allow for any late submissions.
