@@ -121,6 +121,7 @@ N. Dionisio, Usha Sinha, David Johnson. AMIA 1999.
 		* [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697). Ramaravind Kommiya Mothilal, Amit Sharma, Chenhao Tan. FAT* 2020.    
 		* [The Hidden Assumptions Behind Counterfactual Explanations and Principal Reasons](https://arxiv.org/abs/1912.04930). Solon Barocas, Andrew D. Selbst, Manish Raghavan. FAT* 2020.
 		* [Efficient Search for Diverse Coherent Explanations](https://arxiv.org/abs/1901.04909). Chris Russell. FAT* 2019.
+		* [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574). Chaofan Chen, Oscar Li, Chaofan Tao, Alina Jade Barnett, Jonathan Su, Cynthia Rudin. NeurIPS 2019.
 
 
 * Week 8: Human-AI interaction --- Decision Making
