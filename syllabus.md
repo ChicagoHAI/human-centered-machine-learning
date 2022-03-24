@@ -1,4 +1,4 @@
-Syllabus for Human-centered Machine learning (CMSC 35401, Spring 2021)
+Syllabus for Human-centered Machine learning (CMSC 35401, Spring 2022)
 ===========================
 
 ## Course description and goals
@@ -73,4 +73,4 @@ Any concerns over inappropriate PPE usage, physical distancing, cleaning/disinfe
 If you were potentially exposed to COVID-19 or your COVID-19 test results come back positive, reach out immediately to C19HealthReport@uchicago.edu.
 
 
-
+
