@@ -88,7 +88,7 @@ Jina Suh, Shamsi Iqbal, Paul N. Bennett, Kori Inkpen, Jaime Teevan, Ruth Kikin-G
 		* [A Human-Centered Agenda for Intelligible Machine Learning](http://www.jennwv.com/papers/intel-chapter.pdf). Jennifer Wortman Vaughan and Hanna Wallach.  
 		* [Who is the “Human” in Human-Centered Machine Learning: The Case of Predicting Mental Health from Social Media](http://steviechancellor.com/wp-content/uploads/2019/09/HCML-CSCW-2019.pdf). Stevie Chancellor, Eric P.S Baumer, and Munmun De Choudhury. CSCW 2019.
 		* [Human Centered Systems in the Perspective of Organizational and Social Informatics](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/1798/wp97-04B.html). Rob Kling and Leigh Star. 1997.   
-		<span style="color:red">**Team formation due on Apr 30.**</span>
+		<span style="color:red">**Team formation due on Apr 29.**</span>
 
 * Week 6: Feature-based Explanations
 	* May 3, [Why should I trust you?: Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938). Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin. KDD 2016.
