@@ -1,4 +1,4 @@
-Syllabus for Human-centered Machine learning (CMSC 35401, Spring 2022)
+Syllabus for Human-centered Machine learning (CMSC 35401, Spring 2023)
 ===========================
 
 ## Course description and goals
@@ -9,12 +9,12 @@ Machine learning is everywhere, but how can we incorporate machine learning syst
 ## Approach
 
 We have two lectures per week and each student is expected to present (lead the discussion) twice in class. As a crucial step of research is to come up with a good research question, we will ask each student to write two research proposals in this class.
-Each proposal will be at most five pages and is expected to identify a research question, explain why it is a good research question, and propose a tentative plan to address it (e.g., computational models, experiment designs, etc).
+Each proposal will be at most five pages and is expected to identify a research question, explain why it is a good research question, and propose a tentative plan to address it (e.g., computational approaches, experiment designs, etc).
 The final project will be done in groups with at most two or three people depending on class size.
 
 ### Preliminary topics (check course page for updated schedule)
 
-We will examine the following topics this quarter: biases, accountability, interpretable machine learning, and human-AI interaction. We will read related papers to help us understand research in these areas.
+We will examine the following topics this quarter: biases, accountability, human-AI decision making, explanations, and alignment. We will read related papers to help us understand research in these areas.
 
 ### Required background
 
@@ -56,21 +56,6 @@ If you have a preferred name different from what appears on the class roster, or
 The University of Chicago is committed to ensuring equitable access to our academic programs and services. Students with disabilities who have been approved for the use of academic accommodations by Student Disability Services (SDS) and need a reasonable accommodation(s) to participate fully in this course should follow the procedures established by SDS for using accommodations. Timely notifications are required in order to ensure that your accommodations can be implemented. Please meet with me to discuss your access needs in this class after you have completed the SDS procedures for requesting accommodations.
 
 Phone: (773) 702-6000 Email: disabilities@uchicago.edu
-
-### UChicago Health Pact
-All students on campus are required to adhere to the guidelines in the UChicago Health Pact in order to promote a safe environment in the classroom.
-
-Secure face coverings must be worn appropriately at all times at all times while in University buildings
-
-Maintain a distance of 6 feet from others
-
-Do not attend and in-person class if you feel unwell or are experiencing COVID-19 related symptoms
-
-The complete text of the UChicago Health Pact along with additional information about COVID-19 protocols can be found [here](https://goforward.uchicago.edu/health-requirements/#healthpact).
-
-Any concerns over inappropriate PPE usage, physical distancing, cleaning/disinfection, or other COVID-19 related public health concerns should be directed to UCAIR. If there is an emergency, call 773-702-8181 or dial 123 on any campus phone.
-
-If you were potentially exposed to COVID-19 or your COVID-19 test results come back positive, reach out immediately to C19HealthReport@uchicago.edu.
 
 
 
