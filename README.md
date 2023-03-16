@@ -3,7 +3,7 @@ Human-Centered Machine Learning (Spring 2022)
 
 ## Course staff
 Insturctor: Chenhao Tan [contact](mailto:chenhao@uchicago.edu)      
-Office hours: 1:00-1:50pm at Searle 215 on Thursdays or by appointment
+Office hours: 1:30-1:55pm at Searle 215 on Tuesday and Thursdays or by appointment
 
 
 ## Logistics
@@ -138,6 +138,9 @@ Jina Suh, Shamsi Iqbal, Paul N. Bennett, Kori Inkpen, Jaime Teevan, Ruth Kikin-G
 		* [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741). Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, Dario Amodei. 2017.
 		* [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871). Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg. 2018.
 		* [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/abs/1011.0686). Stephane Ross, Geoffrey J. Gordon, J. Andrew Bagnell. AISTATS 2011.
+		* [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175). Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry. NeurIPS 2019.
+		* [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802). William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, Jan Leike. 2022.
+		* [Adversarial Training for High-Stakes Reliability](https://arxiv.org/abs/2205.01663). Daniel M. Ziegler, Seraphina Nix, Lawrence Chan, Tim Bauman, Peter Schmidt-Nielsen, Tao Lin, Adam Scherlis, Noa Nabeshima, Ben Weinstein-Raun, Daniel de Haas, Buck Shlegeris, Nate Thomas. NeurIPS 2022.
 					
 		
 * Week 9: Accountability, auditing, regulation and law
