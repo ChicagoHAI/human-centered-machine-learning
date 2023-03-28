@@ -58,8 +58,7 @@ After Seeing Them Err](http://opim.wharton.upenn.edu/risk/library/WPAF201410-Alg
 		* [Men also like shopping: Reducing gender bias amplification using corpus-level constraints](https://arxiv.org/abs/1707.09457). Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang. EMNLP 2017.
 		* [Man is to computer programmer as woman is to homemaker? debiasing word embeddings](https://arxiv.org/abs/1607.06520). Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai. NeurIPS 2016.
 		* [Language (Technology) is Power: A Critical Survey of "Bias" in NLP](https://arxiv.org/abs/2005.14050). Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach. 2020.
-		* * [Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation]([https://arxiv.org/abs/2005.14050](https://openreview.net/forum?id=xNOVfCCvDpM)). Julius Adebayo, Michael Muelly, Harold Abelson, Been Kim. 2022.
-
+		
 		
 * Week 4: Human-AI interaction --- Decision Making
 	* Apr 11, [On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection](https://arxiv.org/abs/1811.07901). Vivian Lai, Chenhao Tan. FAccT 2019.
@@ -74,10 +73,11 @@ After Seeing Them Err](http://opim.wharton.upenn.edu/risk/library/WPAF201410-Alg
 		* [Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance](https://aiweb.cs.washington.edu/ai/pubs/bansal-chi21.pdf). Gagan Bansal\*, Tongshuang Wu\*, Joyce Zhou, Raymond Fok, Besmira Nushi, Ece Kamar, Marco Tulio Ribeiro, Daniel S. Weld. CHI 2021.
 		* [The Tyranny of Data? The Bright and Dark Sides of Data-Driven Decision-Making for Social Good](https://link.springer.com/chapter/10.1007/978-3-319-54024-5_1). Bruno Lepri, Jacopo Staiano, David Sangokoya, Emmanuel Letouzé, and Nuria Oliver. Transparent Data Mining for Big and Small Data, 2017.  
 		* [Predicting the knowledge–recklessness distinction in the human brain](http://www.pnas.org/content/114/12/3222.full). Iris Vilares, Michael J. Wesley, Woo-Young Ahn, Richard J. Bonnie, Morris Hoffman, Owen D. Jones, Stephen J. Morse, Gideon Yaffe, Terry Lohrenz, and P. Read Montague. PNAS, 2016. 
+		* [Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation]([https://arxiv.org/abs/2005.14050](https://openreview.net/forum?id=xNOVfCCvDpM)). Julius Adebayo, Michael Muelly, Harold Abelson, Been Kim. 2022.
 		* [The effectiveness of feature attribution methods and its correlation with automatic evaluation scores](http://www.pnas.org/content/114/12/3222.full). Giang Nguyen, Daeyoung Kim, and Anh Nguyen. NeurIPS, 2021.
 		* [What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods](https://arxiv.org/abs/2112.04417). Julien Colin, Thomas Fel, Remi Cadene, Thomas Serre. NeurIPS, 2022. 
 		* [HIVE: Evaluating the Human Interpretability of Visual Explanations](https://arxiv.org/abs/2112.03184). Sunnie S. Y. Kim, Nicole Meister, Vikram V. Ramaswamy, Ruth Fong, Olga Russakovsky. ECCV, 2022.
-		* [Visual correspondence-based explanations improve AI robustness and human-AI team accuracy](https://arxiv.org/abs/2208.00780). Giang Nguyen, Mohammad Reza Taesiri, Anh Nguyen. NeurIPS, 2022. 
+		* [Visual correspondence-based explanations improve AI robustness and human-AI team accuracy](https://arxiv.org/abs/2208.00780). Giang Nguyen, Mohammad Reza Taesiri, Anh Nguyen. NeurIPS, 2022.      
 	<span style="color:red">**Second proposal due on Apr 14.**</span>
 
 * Week 5: Conditional delegation & learning to defer
