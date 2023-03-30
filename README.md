@@ -1,4 +1,4 @@
-Human-Centered Machine Learning (Spring 2022)
+Human-Centered Machine Learning (Spring 2023)
 ============================
 
 ## Course staff
