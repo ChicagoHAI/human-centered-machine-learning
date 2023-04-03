@@ -92,6 +92,8 @@ Reduce Overreliance on AI in AI-assisted Decision-making](https://arxiv.org/abs/
 		* [Understanding the Effect of Accuracy on Trust in
 Machine Learning Models](http://mingyin.org/CHI-19/accuracy.pdf). Ming Yin, Jennifer Wortman Vaughan, and Hanna Wallach. CHI 2019.     
 	<span style="color:red">**Project choice and team formation due on Apr 21.**</span> 
+	
+		* [Human-AI Collaboration: The Effect of AI Delegation on Human Task Performance and Task Satisfaction](https://arxiv.org/abs/2303.09224). Patrick Hemmer, Monika Westphal, Max Schemmer, Sebastian Vetter, Michael Vössing, Gerhard Satzger. IUI 2023.     
 
 * Week 6: Case-based decision support
 	* Apr 25, [Learning Human-Compatible Representations for Case-Based Decision Support](https://arxiv.org/abs/2303.04809). Han Liu, Yizhou Tian, Chacha Chen, Shi Feng, Yuxin Chen, and Chenhao Tan. ICLR 2023.
